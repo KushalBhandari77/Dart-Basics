@@ -10,6 +10,5 @@ int getCount(String inputStr) {
       result++;
     }
   }
-
   return result;
 }
